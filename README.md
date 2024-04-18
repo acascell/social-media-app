@@ -10,6 +10,9 @@
 The social media app allows user to register to the website, share images, get and send likes and 
 have an activity stream systems to track user's interactions between eatch other.
 
+### 🍁 Model definition
+![db.png](bookmarks%2Faccount%2Fstatic%2Fdb.png)
+
 ### ✨ Features
  - Create/register an account using both Oauth integration through facebok/twitter or using django authentication framework
  - Login/logout, edit/update profile, update profile picture using custom model
