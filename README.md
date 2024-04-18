@@ -2,6 +2,9 @@
 # A social media website using Django web framework
 
 ![dashboard.png](bookmarks%2Faccount%2Fstatic%2Fdashboard.png)
+![login.png](bookmarks%2Faccount%2Fstatic%2Flogin.png)
+![register.png](bookmarks%2Faccount%2Fstatic%2Fregister.png)
+![images.png](bookmarks%2Faccount%2Fstatic%2Fimages.png)
 
 ### 🚀 Overview
 The social media app allows user to register to the website, share images, get and send likes and 
