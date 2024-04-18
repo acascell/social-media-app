@@ -5,6 +5,8 @@
 ![login.png](bookmarks%2Faccount%2Fstatic%2Flogin.png)
 ![register.png](bookmarks%2Faccount%2Fstatic%2Fregister.png)
 ![images.png](bookmarks%2Faccount%2Fstatic%2Fimages.png)
+![followers.png](bookmarks%2Faccount%2Fstatic%2Ffollowers.png)
+![ranking.png](bookmarks%2Faccount%2Fstatic%2Franking.png)
 
 ### 🚀 Overview
 The social media app allows user to register to the website, share images, get and send likes and 
