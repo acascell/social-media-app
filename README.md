@@ -33,3 +33,8 @@ have an activity stream systems to track user's interactions between eatch other
 - thumbnails
 - Pillow 
 - django debug toolbar
+
+
+### 🔎 TODO
+- re-style using Tailwind
+- implement proper frontend using react
